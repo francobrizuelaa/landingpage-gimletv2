@@ -79,7 +79,7 @@ export default function Footer() {
           <div className="space-y-4">
             <h3 className="text-xl font-bold text-white">Gimlet</h3>
             <p className="text-purple-200/70">
-              Transformamos ideas en experiencias excepcionales para impulsar tu negocio.
+              Transformamos ideas en experiencias digitales excepcionales para potenciar tu negocio.
             </p>
           </div>
 
